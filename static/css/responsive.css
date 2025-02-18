@@ -1,0 +1,541 @@
+@media(max-width:1500px) and (min-width:1200px){
+    .our_customer_section .mySwiper {
+        width: 110%;
+    }  
+    
+    .hero_content h1 {
+        font-size: 50px;
+    }
+
+    .hero_section {
+        height: 100vh;
+    }
+}
+
+
+@media(max-width:1600px) and (min-width:1500px){
+    .our_customer_section .mySwiper {
+        width: 116%;
+    }
+}
+
+
+@media(max-width:1080px) and (min-width:992){
+    .hero_content h1 {
+        font-size: 45px;
+    }
+
+}
+
+@media(max-width:1200px) and (min-width:992px){
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 1100px;
+    }
+
+    
+    .logo img {
+        width: 150px;
+    }
+
+    .main_header ul li:last-child p:after {
+        right: -13px;
+    }
+
+    .main_header ul li:last-child p:before {
+        right: -7px;
+    }
+
+    .hero_content h1 {
+        font-size: 45px;
+    }
+
+    .hero_section {
+        height: 100vh;
+    }
+
+    .nex_prevBnt {
+        width: 95%;
+    }
+
+    .our_customer_section .mySwiper {
+        width: 100%;
+    }
+}
+
+@media(max-width:991px) and (min-width:768px){
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 900px;
+    }
+
+
+    .paira{
+        font-size: 14px;
+    }
+
+    .our_projects .text_Product {
+        font-size: 25px;
+    }
+
+    .our_customer_section .mySwiper {
+        width: 100%;
+    }
+
+    .nex_prevBnt {
+        width: 98%;
+    }
+
+    .mission_box{
+        margin-top: 15px;
+    }
+
+    .hero_content h1 {
+        font-size: 35px;
+    }
+
+    .news-seven__single__title {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .amin_menu {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+    }
+    .top_header{
+        display: none;
+    }
+    .flex-direction{
+        flex-direction: column-reverse;
+    }
+
+    .logo a .logo_text {
+        display: block;
+    }
+
+    .logo a {
+        display: flex;
+        gap: 18px;
+        align-items: center;
+    }
+
+    .logo a .logo_text h4 {
+        color: #fff;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+
+    .logo a .logo_text p {
+        margin: 0;
+        font-size: 13px;
+    }
+}
+
+@media(max-width:767px) and (min-width:576px){
+    .container, .container-sm {
+        max-width: 670px;
+    }
+
+    .breadrumb_section {
+        padding: 70px 0px;
+        background-position: center;
+    }
+
+    .paira{
+        font-size: 14px;
+    }
+
+    .top_header{
+        display: none;
+    }
+
+    .our_customer_section .mySwiper {
+        width: 100%;
+    }
+
+    .nex_prevBnt {
+        width: 97%;
+    }
+
+    .teams .nex_prevBnt, .Testimonials .nex_prevBnt {
+        width: 97%;
+    }
+
+    .news-seven__single__title {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .seo_boxes h4 {
+        font: normal normal 700 17px/18px Plus Jakarta Sans;
+    }
+
+    .hero_content h1 {
+        font-size: 35px;
+    }
+
+    .mil-footer-links {
+        display: block;
+    }
+
+    .mil-footer-links ul {
+        justify-content: center;
+    }
+
+    .mil-footer-links ul .mil-adapt-links {
+        margin-bottom: 10px;
+    }
+
+    .amin_menu {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+    }
+
+    .hero_section{
+        height: 100%;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+    .hero_img {
+        display: none;
+    }
+
+    .hero_img_mobile{
+        display: block;
+    }
+
+    .top_services {
+        margin-top: 70px;
+    }
+    .flex-direction{
+        flex-direction: column-reverse;
+    }
+
+    .digital_marketing_content p, .digital_marketing_content h3 {
+        text-align: center;
+    }
+
+    .choose_img {
+        margin-top: 30px;
+    }
+
+    .open_account_step_wrapper .main_heading {
+        font-size: 25px;
+    }
+
+    .number_step {
+        display: none;
+    }
+
+    .open_account_step_wrapper .paira {
+        font-size: 14px;
+    }
+
+    .open_account_step_wrapper {
+        text-align: center;
+    }
+
+
+    .softea_iimg img {
+        margin: auto;
+        display: block;
+    }
+
+    .breadrumb_content .main_subheading {
+        font-size: 25px;
+    }
+
+    .logo a .logo_text {
+        display: block;
+    }
+
+    .logo a {
+        display: flex;
+        gap: 18px;
+        align-items: center;
+    }
+
+    .logo a .logo_text h4 {
+        color: #fff;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+
+    .logo a .logo_text p {
+        margin: 0;
+        font-size: 13px;
+    }
+
+    
+}
+
+@media(max-width:575px) and (min-width:320px){
+    .our_customer_section .mySwiper {
+        width: 100%;
+    }
+
+
+    .directer_img:before {
+        left: -11px !important;
+        top: -11px !important;
+        width: 60px !important;
+        height: 60px !important;
+    }
+    .breadrumb_content .main_subheading {
+        font-size: 23px;
+    }
+
+    .directer_box:after {
+        right: -11px !important;
+        bottom: 60px !important;
+        width: 60px !important;
+        height: 60px !important;
+    }
+
+    .open_account_step_wrapper {
+        text-align: center;
+    }
+
+
+    .softea_iimg img {
+        margin: auto;
+        display: block;
+    }
+
+    .open_account_step_wrapper .paira {
+        font-size: 14px;
+    }
+
+    .open_account_step_wrapper .main_heading {
+        font-size: 25px;
+    }
+
+    .number_step {
+        display: none;
+    }
+
+    .breadrumb_section {
+        padding: 70px 0px;
+        background-position: center;
+    }
+
+    .choose_img {
+        margin-top: 30px;
+    }
+
+    .flex-direction{
+        flex-direction: column-reverse;
+    }
+
+    .digital_marketing_content p, .digital_marketing_content h3 {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 180px;
+    }
+
+    .hero_content h5 {
+        font-size: 15px;
+    }
+
+    .menu img {
+        width: 35px;
+    }
+
+    .mission_box{
+        margin-bottom: 20px;
+    }
+
+    .top_services {
+        margin-top: 70px;
+    }
+
+    .hero_img {
+        display: none;
+    }
+
+    .hero_img_mobile{
+        display: block;
+    }
+
+    .hero_section{
+        height: 100%;
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+
+    .mil-footer-links ul .mil-adapt-links {
+        margin-bottom: 10px;
+    }
+
+    .mil-footer-links ul {
+        justify-content: center;
+    }
+
+    .top_header{
+        display: none;
+    }
+
+    .amin_menu {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+    }
+
+    .mil-footer-links {
+        display: block;
+    }
+
+    .nex_prevBnt {
+        width: 95%;
+    }
+
+    .teams .nex_prevBnt, .Testimonials .nex_prevBnt {
+        width: 95%;
+    }
+
+    .brand-one-item {
+        padding: 10px;
+    }
+
+    .client_content .main_subheading {
+        justify-content: center;
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    .client_content {
+        text-align: center;
+    }
+
+    .faq_content .main_subheading {
+        width: fit-content;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+
+    .faq_content {
+        text-align: center;
+    }
+    .about_content ul li img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .about_content ul li {
+        display: flex;
+    }
+
+    .hero_content h1 {
+        font-size: 32px;
+    }
+    .top_detail ul li:first-child{
+        display: none;
+    }
+
+    .top_detail ul li:nth-child(2){
+        display: none;
+    }
+
+    .social_media {
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .main_heading {
+        font-size: 25px !important;
+        line-height: 35px;
+    }
+
+    .about_content .btn.btn-2 {
+        margin: auto;
+    }
+
+    .main_heading_box h3 {
+        font-size: 25px;
+    }
+
+    .testimonials_section {
+        padding-top: 20px;
+    }
+
+    .news-seven__single__title {
+        font-size: 17px;
+        line-height: 25px;
+        margin-top: 15px;
+    }
+
+    .our_projects > img {
+        height: auto;
+        max-width: max-content;
+    }
+
+    .our_projects .text_Product {
+        font-size: 30px;
+    }
+
+    .btn span {
+        font-size: 14px;
+    }
+
+    .our_projects {
+        padding: 100px 30px 40px 30px;
+    }
+
+    .Testimonials {
+        padding-bottom: 0px !important;
+    }
+    .mil-footer-links ul li a {
+        font-size: 13px;
+    }
+
+    .mil-footer-links ul li {
+        margin-right: 15px;
+    }
+
+    .softea_iimg {
+        margin-bottom: 25px;
+    }
+
+    .pb-100 {
+        padding-bottom: 70px;
+    }
+    .pt-100 {
+        padding-top: 70px;
+    }
+
+    .logo a {
+        display: flex;
+        gap: 18px;
+        align-items: center;
+    }
+
+    .logo a .logo_text {
+        display: block;
+    }
+
+    .logo a .logo_text h4 {
+        color: #fff;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+
+    .logo a .logo_text p {
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .paira{
+        font-size: 14px;
+    }
+}
